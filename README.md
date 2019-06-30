@@ -16,7 +16,7 @@ The contents of this electronic resource will be updated throughout the term. Yo
 
 * [Panopto Recordings]() (ICL login required)
 
-* [Links and Explanations](Notebook.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/aronwalsh/Crystallography/master?filepath=Notebook.ipynb)
+* [Links and Explanations](Notebook-Part1.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/aronwalsh/Crystallography/master?filepath=Notebook-Part1.ipynb)
 
 * [Class Exercises](./Exercises)
 
