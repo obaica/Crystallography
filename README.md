@@ -2,7 +2,7 @@
 [![CC-BY license](https://img.shields.io/badge/License-CC--BY-blue.svg)](https://creativecommons.org/licenses/by/4.0)
 
 
-## (MSE102) Structure I: Crystallography 
+## (MATE40004) Structure 1: Crystallography 
 
 ### Professor Aron Walsh, Department of Materials, ICL [(contact)](http://www.imperial.ac.uk/people/a.walsh)
 
