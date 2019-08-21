@@ -20,6 +20,4 @@ The contents of this electronic resource will be updated throughout the term. Yo
 
 * [Class Exercises](./Exercises)
 
-* [Crystal Structures](./Structures)
-
 * [Post a Query](https://github.com/aronwalsh/Crystallography/issues)
